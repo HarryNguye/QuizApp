@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HarryNguye/QuizApp.git/static/css/main.4d693d50.css",
-    "main.js": "/HarryNguye/QuizApp.git/static/js/main.5deb79ff.js",
-    "static/js/453.e9a0592c.chunk.js": "/HarryNguye/QuizApp.git/static/js/453.e9a0592c.chunk.js",
-    "index.html": "/HarryNguye/QuizApp.git/index.html",
-    "main.4d693d50.css.map": "/HarryNguye/QuizApp.git/static/css/main.4d693d50.css.map",
-    "main.5deb79ff.js.map": "/HarryNguye/QuizApp.git/static/js/main.5deb79ff.js.map",
-    "453.e9a0592c.chunk.js.map": "/HarryNguye/QuizApp.git/static/js/453.e9a0592c.chunk.js.map"
+    "main.css": "/HarryNguye/QuizApp/static/css/main.4d693d50.css",
+    "main.js": "/HarryNguye/QuizApp/static/js/main.de3b0897.js",
+    "static/js/453.e9a0592c.chunk.js": "/HarryNguye/QuizApp/static/js/453.e9a0592c.chunk.js",
+    "index.html": "/HarryNguye/QuizApp/index.html",
+    "main.4d693d50.css.map": "/HarryNguye/QuizApp/static/css/main.4d693d50.css.map",
+    "main.de3b0897.js.map": "/HarryNguye/QuizApp/static/js/main.de3b0897.js.map",
+    "453.e9a0592c.chunk.js.map": "/HarryNguye/QuizApp/static/js/453.e9a0592c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d693d50.css",
-    "static/js/main.5deb79ff.js"
+    "static/js/main.de3b0897.js"
   ]
 }
