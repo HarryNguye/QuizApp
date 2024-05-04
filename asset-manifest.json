@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HarryNguye/QuizApp.git/static/css/main.4d693d50.css",
+    "main.js": "/HarryNguye/QuizApp.git/static/js/main.36e2da87.js",
+    "static/js/453.e9a0592c.chunk.js": "/HarryNguye/QuizApp.git/static/js/453.e9a0592c.chunk.js",
+    "index.html": "/HarryNguye/QuizApp.git/index.html",
+    "main.4d693d50.css.map": "/HarryNguye/QuizApp.git/static/css/main.4d693d50.css.map",
+    "main.36e2da87.js.map": "/HarryNguye/QuizApp.git/static/js/main.36e2da87.js.map",
+    "453.e9a0592c.chunk.js.map": "/HarryNguye/QuizApp.git/static/js/453.e9a0592c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d693d50.css",
+    "static/js/main.36e2da87.js"
+  ]
+}
